@@ -1,4 +1,4 @@
-# swag-ddos
+# swag-ddos by swagcodes
 
 ### How to use in termux/linux:
 
@@ -9,3 +9,4 @@
 > cd swag-ddos
 > python3 swag-ddos
 ```
+!!! do not abuse with this script !!!
