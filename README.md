@@ -7,6 +7,6 @@
 > apt-get install git
 > git clone https://github.com/swagcodes/swag-ddos
 > cd swag-ddos
-> python3 swag-ddos
+> python3 swag-ddos.py
 ```
 !!! do not abuse with this script !!!
