@@ -23,9 +23,8 @@ banner=Fore.MAGENTA+'''
 ▀▀▀ ░▀░▀░ ▀░░▀ ▀▀▀▀ ░░ ▀▀▀░ ▀▀▀░ ▀▀▀▀ ▀▀▀                                       
 '''+Fore.RESET
 credit=(Fore.CYAN+
-'''                                                                     Author : swagcodes
-	                                                             Github  : https://github.com/swagcodes
-	                                                             Contact us in github page                                                           
+'''                                                                     Author : swagcode
+	                                                             Github  : https://github.com/swagcodes                                           
 '''+Fore.RESET)
 ################################################################################
 #platform info
@@ -60,7 +59,7 @@ def update():
 		print(Fore.RED + "Please update the Program")
 		print("Redirecting...." + Fore.RESET)
 		time.sleep(3)
-		webbrowser.open('https://github.com/BOT-CODER/SniperMan/')
+		webbrowser.open('https://github.com/swagcodes/swag-ddos/')
 		exit()
 	else:
 		pass
